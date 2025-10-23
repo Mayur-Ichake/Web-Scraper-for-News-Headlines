@@ -15,7 +15,12 @@ beautifulsoup4 – To parse and extract HTML tags
 
 How to Run
 
-pip install requests beautifulsoup4
-python news_scraper_basic.py
+pip install requests beautifulsoup4                   
+python news_scraper_basic.py                              
 
 ---
+
+Author
+
+Name – Mayur Santosh Ichake                                     
+Email: mayurichake4@gmail.com                      
