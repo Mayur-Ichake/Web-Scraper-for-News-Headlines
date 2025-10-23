@@ -1,4 +1,4 @@
-# Web Scraper for News Headlines
+# Web Scraper for News Headlines  (Elevate Lab – Internship Task 3)
 
 A beginner-friendly Python project that scrapes top news headlines from a news website using requests and BeautifulSoup.
 It helps you learn the basics of web scraping, HTML parsing, and file handling in Python.
